@@ -1,35 +1,21 @@
 
 header{
-	background-image: url(../img/prueba3.jpg);
-	background-size: 1200px 350px;
-	padding: 150px;
-	background-repeat: no-repeat;: 
-	margin-bottom: 20px
-}
-body{
-	background: #ffffff;
-}
-.contenedor-main{
-	margin-bottom: 20px;
+	background: #51ff44;
+	padding: 10px 0;
+	color: #000000;
 }
 
-.columna-1{
-	background: #961859
-	padding: 20px 0;
-	color: #0d47a1;
-}
 
-#jaina{
+#OSTEO{
 	width: 260px;
 	margin: auto;
 	display: block;
 }
 
-
-
 footer{
-	padding: 20px 0;
-	background: #f96909;
+	background: #51ff44;
+	padding: 10px 0;
+	color: #000000;
 }
 
 #principal{
@@ -37,3 +23,4 @@ footer{
 	margin: auto;
 	display: block;
 }
+

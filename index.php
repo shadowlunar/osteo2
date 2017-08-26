@@ -9,17 +9,18 @@
 <body>
 
 <div class="container">
-	<header class="row">
+	<header class="row ">
 		<div class="col">
+			<h3 class="text-center">Grupo PVR-TEC Grupo PALTI Grupo BOTICA IZOMAL Grupo NATURAL NEEM</h3>
 		</div>
 	</header>
-	<section class="contendedor-main row">
+	<section class="contendedor-main row ">
 		<div class="columna-1 col-md-4 align-self-center" id="texto-centrado">
-		<h2 class="text-center">OSTEO SIN MAX</h2>
-		<img  class="img-fluid rounded" id="jaina" src="img/OSTEO SIN MAX.jpg" alt="jaina">
+		<h2 class="text-center letraaz">OSTEO SIN MAX</h2>
+		<img  class="img-fluid rounded" id="OSTEO" src="img/OSTEO SIN MAX.jpg" alt="OSTEO SIN MAX">
 		</div>
 		<main class=" col-md-8">
-			<h2 class="text-center">Historia en Breve -
+			<h2 class="text-center letraaz">Historia en Breve -
 			DOS EXÁMENES </h2>
 			<p class="text-justify">
 			Hacer análisis de detección de forma excesiva e innecesaria a la larga podría causar una cascada de costes de seguimiento obligatorios, junto con tratamientos posiblemente invasivos que en realidad no necesita, así como el trauma psicológico subsecuente.
