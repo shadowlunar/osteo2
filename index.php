@@ -15,9 +15,32 @@
 		</div>
 	</header>
 	<section class="contendedor-main row ">
-		<div class="columna-1 col-md-4 align-self-center" id="texto-centrado">
+		<div class="columna-1 col-md-4 align-self-center">
 		<h2 class="text-center letraaz">OSTEO SIN MAX</h2>
-		<img  class="img-fluid rounded" id="OSTEO" src="img/OSTEO SIN MAX.jpg" alt="OSTEO SIN MAX">
+		<div class="col-12 mt-5">
+				<div class="carousel slide" id="pricipal-carousel" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#pricipal-carousel" data-slid-to="0" class="active"></li>
+						<li data-target="#pricipal-carousel" data-slid-to="1"></li>
+						<li data-target="#pricipal-carousel" data-slid-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item ">
+							<img src="img/OSTEO SIN MAX.jpg" alt="">
+						</div>
+						<div class="carousel-item active">
+							<img src="img/prueba2.jpg" alt="">
+						</div>	
+						<div class="carousel-item">
+							<img src="img/mala.jpg" alt="">
+						</div>		
+					</div>
+					<a href="#pricipal-carousel" class="carousel-control-prev" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">anterior</span>
+					</a>
+				</div>
+			</div>
 		</div>
 		<main class=" col-md-8">
 			<h2 class="text-center letraaz">Historia en Breve -
